@@ -1,6 +1,0 @@
-19/03/2026  35.0  Chicken  Paratha  Food
-
-19/03/2026  25.0  Lab Copy  Stationary
-19/03/2026  10.0  Aloo Bhujiya  Food
-19/03/2026  130.0  Copy  Stationary
-19/03/2026  10.0  Kit Kat  Food
